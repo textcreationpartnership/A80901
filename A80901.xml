@@ -1,0 +1,182 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration of His Highnes the Lord Protector and the Parliament of the Commonwealth of England, Scotland, and Ireland, for a day of solemn fasting and humiliation in the three nations. Tuesday the 23th of September, 1656. Ordered by the Parliament, that this declaration be forthwith printed and published. Hen: Scobell, Clerk of the Parliament.</title>
+            <author>England and Wales. Lord Protector (1653-1658 : O. Cromwell)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1656</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80901</idno>
+            <idno type="STC">Wing C7069</idno>
+            <idno type="STC">Thomason E1065_10</idno>
+            <idno type="STC">ESTC R25360</idno>
+            <idno type="EEBO-CITATION">99872091</idno>
+            <idno type="PROQUEST">99872091</idno>
+            <idno type="VID">169267</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80901)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169267)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 159:E1065[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration of His Highnes the Lord Protector and the Parliament of the Commonwealth of England, Scotland, and Ireland, for a day of solemn fasting and humiliation in the three nations. Tuesday the 23th of September, 1656. Ordered by the Parliament, that this declaration be forthwith printed and published. Hen: Scobell, Clerk of the Parliament.</title>
+                  <author>England and Wales. Lord Protector (1653-1658 : O. Cromwell)</author>
+                  <author>Cromwell, Oliver, 1599-1658.</author>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Henry Hills, and John Field, Printers to His Highness, the Lord Protector,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1656.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fasts and feasts --  Great Britain --  Early works to 1800.</term>
+               <term>Public worship --  Great Britain --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2014-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:169267:1" rendition="simple:additions"/>
+            <p>A DECLARATION OF HIS HIGHNES The Lord Protector AND THE PARLIAMENT OF THE Commonwealth of <hi>England, Scotland,</hi> and <hi>Ireland,</hi> for a Day of Solemn Faſting and Humiliation in the Three Nations.</p>
+            <figure>
+               <figDesc>depiction of the state arms of the Commonwealth (1649-60) consisting of the cross of St. George (patron saint of England) and the Irish harp</figDesc>
+            </figure>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <opener>
+                           <dateline>
+                              <date>Tueſday the 23<hi rend="sup">th</hi> of <hi>September,</hi> 1656.</date>
+                           </dateline>
+                        </opener>
+                        <p>ORdered by the Parliament, That this Declaration be forthwith Printed and Publiſhed.</p>
+                        <closer>
+                           <signed>Hen: Scobell, Clerk of the Parliament.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>London,</hi> Printed by <hi>Henry Hills,</hi> and <hi>John Field,</hi> Printers to His Highneſs, the Lord Protector. 1656.</p>
+         </div>
+      </front>
+      <body>
+         <div type="Parliamentary_declaration">
+            <pb facs="tcp:169267:2"/>
+            <pb n="1" facs="tcp:169267:2"/>
+            <head>A Declaration of His Highneſs the Lord Protector and the Parliament of the Com<g ref="char:EOLhyphen"/>monwealth of <hi>England, Scotland</hi> and <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> for a day of ſolemn Faſting and Hu<g ref="char:EOLhyphen"/>miliation in the three Nations.</head>
+            <p>
+               <seg rend="decorInit">S</seg>Vch have been the out-go<g ref="char:EOLhyphen"/>ings of our God for his people in this our generati<g ref="char:EOLhyphen"/>on, that none as men, but muſt ſay, <hi>It is Marvellous in our eyes:</hi> And none as Chriſtians, but muſt cry out; <hi>It is the Lords doing,</hi> he hath alwaies been a ready help in time of need, and never did his poor ſervants ſeek his face in vain, neither did he ever lend a deaf ear to the voice of their weepings. <hi>Who can utter the migh<g ref="char:EOLhyphen"/>ty Acts of the Lord? who can ſhew forth all his praiſ<g ref="char:EOLhyphen"/>es? But Iſrael doth not know, my people doth not conſider,</hi> for in the midſt of ſuch unequalled and ſignal mercies, how great hath been, and is our ingratitude and unfruitfulneſs? Verily ſuch, that nothing can be greater, but that inexhauſt<g ref="char:EOLhyphen"/>ed mercy, which hitherto hath not conſumed us. Should the Lord ſay unto us, as once he did unto <hi>Ephraim, Ephraim is joined unto Idols, let him alone.</hi> That heavy ſentence would be but our deſert. As inſenſibility is our crime, ſo it might be too juſtly made our puniſhment; for who has been melted by mercies, who has
+<pb n="2" facs="tcp:169267:3"/> been broken by judgement? <hi>Ah ſinful Nation! a people laden with iniquity, a ſeed of evill doers, chil<g ref="char:EOLhyphen"/>dren that are corrupters, they have forſaken the Lord, they have provoked the holy one of Iſrael to anger, they are gone away backward: why ſhould ye be ſtricken any more? ye will revolt more and more.</hi> As theſe ſad words do Characterize us as fully as they did thoſe of <hi>Juda</hi> to whom they were firſt ſpoken; ſo if that ſad Denuntiation ſhould alſo be our Doom, we could not yet but acknow<g ref="char:EOLhyphen"/>ledge; <hi>the Lord is righteous in all his wayes, and holy in all his works.</hi> How deeply have we grieved our good God, in not mourning as we ought, even as one that mourneth for his firſt-born, for that ignorance, profaneneſs and barrenneſs that is ſo ripe amongſt us, even under ſuch rich means of knowledge, reformation and grace, in not being ſenſible under, nor making a ſan<g ref="char:EOLhyphen"/>ctified uſe of, thoſe Rebukes we have of late received; But rather charging ſuch miſcar<g ref="char:EOLhyphen"/>riages upon Inſtruments, chiefly, if not only, when every Individual hath helped to fill up the meaſure of thoſe ſins after which ſuch Iudgements were to follow.</p>
+            <p>In not improving mercies ſo fully as might have been, to his glory, from whom alone they were received.</p>
+            <p>In the ſad neglect and want of Activity, Reſolution and Integrity, in Magiſtrates and others impowred therein, for the puniſh<g ref="char:EOLhyphen"/>ment and ſuppreſſion of vice and crying Enor<g ref="char:EOLhyphen"/>mities.</p>
+            <p>In the abominable Blaſphemies vented and ſpread of late through the apoſtaſie of, and the abuſe of liberty by, many profeſſing Religion.</p>
+            <p>In that little love and tenderneſs which is
+<pb n="3" facs="tcp:169267:3"/> even amongſt profeſſors themſelves towards one another, who whilſt they contend for things diſputable, loſe that which is certain, even <hi>Charity, which is the bond of perfectneſs,</hi> and with<g ref="char:EOLhyphen"/>out which they become as <hi>ſounding Braſs, or a tinckling Cimball:</hi> To love one another is Chriſts new Commandement, nay, the very Badge of his Diſciples. <hi>By this ſhall all men know that you are my Diſciples, if you have love one to another,</hi> in al<g ref="char:EOLhyphen"/>lowing difference in forms, more power to divide Chriſtians, then Agreements in fundamentals has to unite them, one of the dangerouſeſt and fruitfulleſt ſeed that hath been ſown by the en<g ref="char:EOLhyphen"/>vious one.</p>
+            <p>In not being truly ſenſible, that though the Lord in the depths of his wiſedome and righteous Iudgement, hath for ſome years laſt paſt been overturning ſeveral Authorities in theſe Nations, and hath as it were been pou<g ref="char:EOLhyphen"/>ring them out from veſſel to veſſel: He hath yet been pleaſed ever ſince his people publickly con<g ref="char:EOLhyphen"/>tended for his Truths, ſtill to ſet up Rulers, who have allowed them the free exerciſe &amp; pro<g ref="char:EOLhyphen"/>feſſion of them.</p>
+            <p>In that Atheiſtical and Luke-warm Spirit, too commonly amongſt us, whereby not only the form but power of godlineſs is reproached, and accounted as a vile thing, but alſo too many have fallen from their firſt love, and others <hi>La<g ref="char:EOLhyphen"/>odicean</hi> like, eſteem themſelves <hi>rich and to have need of nothing,</hi> whileſt indeed they are <hi>wretch<g ref="char:EOLhyphen"/>ed, and miſerable, and poor, and blind, and naked,</hi> ſins which are the highlier aggravated, by being committed in Countreys where the Glorious light of the Goſpel ſhines cleareſt.</p>
+            <p>In being more diſſatisfied that we have not obtained all we aymed at, then thankfull that
+<pb n="4" facs="tcp:169267:4"/> we have obtained ſo much, as through mercy we now enjoy.</p>
+            <p>All which, with other the grievous ſins of theſe three Nations, call aloud upon all the good people in them, to lye Low in the ſight of our offended God, and by prayer and humiliation; (a way which in our deepeſt diſtreſſes, we have found both our duty and comfort to tread in) to ſeek to appeaſe his wrath; And that he will for his own Names ſake be pleaſed, to remove whatever accurſed thing there is amongſt us, and that as he is our God, ſo we may be his people.</p>
+            <p>That he will infatuate the Counſels, and defeat the Deſigns, of all thoſe that labour to exalt themſelves, againſt the intereſt of his Son and his People.</p>
+            <p>That he will be pleaſed in a moſt eſpeciall manner to vouchſafe his preſence to thoſe who are intruſted with the mannagement of the affaires of theſe Nations:</p>
+            <p>That as he is the <hi>mighty Councellor</hi> in him<g ref="char:EOLhyphen"/>ſelf, ſo alſo that he would appear ſuch expe<g ref="char:EOLhyphen"/>rimentally unto them.</p>
+            <p>That he would in all things ſpirit them to the work unto which they are called, And give them unitie amongſt themſelves, even the beſt <hi>Unitie,</hi> That <hi>of the Spirit, In the</hi> beſt <hi>Bond,</hi> That <hi>of Peace;</hi> That as they are a people abounding in Mercies, ſo they may abound in Returns.</p>
+            <p>And that at laſt through the unwearied goodneſs of our God, theſe three Nations, after ſuch memorable revolutions, may be ſetled upon the ſure foundations of Truth, Mercy &amp; Peace, and his people henceforth, <hi>being delivered from</hi> their <hi>Enemies, may ſerve him without fear, in Holineſs, and Righteouſneſs, before him all the dayes of their lives.</hi>
+            </p>
+            <pb n="5" facs="tcp:169267:4"/>
+            <p>It is therefore declared by his Highneſs the Lord Protector, and the Parliament of the Commonwealth of <hi>England, Scotland</hi> and <hi>Ireland,</hi> That for the end and purpoſes aforeſaid, They do appoint <hi>Thurſday</hi> being the thirtieth day of <hi>October</hi> next, for a day of ſolemn humiliation and ſeeking the face of God, through the Me<g ref="char:EOLhyphen"/>diation of Chriſt, in all places within <hi>England, Scotland</hi> and <hi>Ireland,</hi> And do therefore hereby incite, and encourage all ſuch whoſe hearts God ſhall perſwade and make ſenſible of their duty, and of the Commonwealths preſent con<g ref="char:EOLhyphen"/>dition; that the day aforeſaid be ſet apart by them for the purpoſes aforeſaid. And all per<g ref="char:EOLhyphen"/>ſons whatſoever, are hereby enjoyned and re<g ref="char:EOLhyphen"/>quired, to abſtain from the works of their ordi<g ref="char:EOLhyphen"/>nary calling, and from any recreations, or other things againſt the fitting and due obſervation of that day. And all Faires and Markets are hereby prohibited to be kept upon that day, but may be proclaimed to be kept upon the day next enſuing. And all Officers of Iuſtice are hereby required to cauſe due obſervation to be had hereof, And the Miniſters and Preachers of the reſpective Pariſhes and Congregations, are to take notice hereof: For which end, <hi>It is Order<g ref="char:EOLhyphen"/>ed,</hi> That Copies of this Declaration be Print<g ref="char:EOLhyphen"/>ed, and ſent into the ſeveral parts of the three Nations, that the ſame may be publiſhed accor<g ref="char:EOLhyphen"/>dingly.</p>
+         </div>
+         <div type="license">
+            <opener>
+               <dateline>
+                  <date>Tueſday the 23<hi rend="sup">th</hi> of <hi>September,</hi> 1656.</date>
+               </dateline>
+            </opener>
+            <p>ORdered by the Parliament, That this Declaration be forth<g ref="char:EOLhyphen"/>with Printed and Publiſhed.</p>
+            <closer>
+               <signed>Hen: Scobel, Clerk of the Parliament.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
